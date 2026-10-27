@@ -1,0 +1,20 @@
+{
+    "name": "ClickerTest.Runtime",
+    "rootNamespace": "ClickerTest",
+    "references": [
+        "Zenject",
+        "UniTask",
+        "UniRx",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

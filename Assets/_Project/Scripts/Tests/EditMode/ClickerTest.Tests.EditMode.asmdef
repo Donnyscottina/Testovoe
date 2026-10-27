@@ -1,0 +1,26 @@
+{
+    "name": "ClickerTest.Tests.EditMode",
+    "rootNamespace": "ClickerTest.Tests",
+    "references": [
+        "ClickerTest.Runtime",
+        "UniTask",
+        "UniRx",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
